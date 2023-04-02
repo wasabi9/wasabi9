@@ -1,2 +1,3 @@
-- 👀 I’m interested in Deep Learning and it's applications
+- 👀 Data cleaning and preprocessing mostly, sometimes deep learning as well
 - 📫 linkedin : https://www.linkedin.com/in/abhinay-kumar-1a330b114/
+- 🐦 twitter : https://twitter.com/abhinaykdn11
