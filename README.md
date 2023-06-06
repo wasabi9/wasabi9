@@ -1,3 +1,3 @@
 - 👀 Data cleaning and preprocessing mostly, sometimes deep learning as well
 - 📫 linkedin : https://www.linkedin.com/in/abhinaykumar27/
-- 🐦 twitter : https://twitter.com/_abhinaykumar_
+- 🐦 twitter : https://twitter.com/_abhinaykumar_/
